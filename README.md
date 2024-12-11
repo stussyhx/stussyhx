@@ -4,4 +4,4 @@ Je m'intéresse à l'informatique et au développement depuis mon plus jeune âg
 réunissant déjà une petite communauté. Au fil du temps, j'ai pu créer de plus grands serveurs ambitieux. Je cherche désormais à m'éloigner de ce monde
 et à me concentrer à la cyber sécurité.
 
-![akatsuki](https://github.com/user-attachments/assets/6aafad56-36bf-403c-89f1-83d746de7861)
+![stussy](https://github.com/user-attachments/assets/3c62ae6c-b7da-4f27-9603-4d1c99ddc88a)
