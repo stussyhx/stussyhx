@@ -5,8 +5,9 @@ réunissant déjà une petite communauté. Au fil du temps, j'ai pu créer de pl
 et à me concentrer à la cyber sécurité.
 
 Quelques objectifs :
-### > A
+  - Valider mon cursus à 42 Paris.
+  - Travailler à l'international
+  - Devenir indépendant.
 
 Connectons-nous sur LinkedIn.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ilyesamiri/) !
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ilyesamiri/)
