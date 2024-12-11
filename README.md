@@ -5,3 +5,5 @@ réunissant déjà une petite communauté. Au fil du temps, j'ai pu créer de pl
 et à me concentrer à la cyber sécurité.
 
 ![stussyigo](https://github.com/user-attachments/assets/ba04e10a-3abf-4604-addf-9615b4a9f057)
+
+Discord: ```stussy.xyz```
