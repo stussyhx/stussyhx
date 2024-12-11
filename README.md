@@ -5,4 +5,5 @@ réunissant déjà une petite communauté. Au fil du temps, j'ai pu créer de gr
 et à me concentrer à la cyber sécurité.
 
 Connectons-nous sur LinkedIn.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ilyesamiri/) !
