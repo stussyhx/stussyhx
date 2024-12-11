@@ -5,7 +5,7 @@ réunissant déjà une petite communauté. Au fil du temps, j'ai pu créer de pl
 et à me concentrer à la cyber sécurité.
 
 Quelques objectifs :
-### - A
+### > A
 
 Connectons-nous sur LinkedIn.
 
